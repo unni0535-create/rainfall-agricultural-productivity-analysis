@@ -1,0 +1,45 @@
+# 🌧️ Rainfall Impact on Agricultural Productivity
+
+### Power BI | Data Analytics | Data Visualization
+
+## Project Overview
+
+An interactive Power BI project analyzing historical rainfall patterns and agricultural productivity across Indian states from 1966 onwards.
+
+## Objectives
+
+* Analyze monthly monsoon rainfall.
+* Compare state-wise crop productivity.
+* Identify agricultural trends and regional variations.
+* Explore historical rainfall patterns.
+
+## Tools Used
+
+* Microsoft Power BI Desktop
+* Data Analytics
+* Data Visualization
+
+## Key Analysis
+
+* Monthly rainfall (June–September).
+* Barley yield across Indian states.
+* Cotton production analysis.
+* Castor productivity analysis.
+* Interactive state and year filters.
+
+## Key Findings
+
+* July recorded the highest average rainfall (304.36 mm).
+* August followed with 268.22 mm.
+* Agricultural productivity varied across states and crop types.
+
+## Project Deliverables
+
+* Power BI Dashboard (.pbix)
+* Project Report (PDF)
+
+## Project Information
+
+**Institution:** Hero Vired
+**Project Type:** Data Analytics Capstone Project
+**Author:** Unnikrishnan
